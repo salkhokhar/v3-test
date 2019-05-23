@@ -39,7 +39,9 @@ Parameter explain:
 1. Clone this project.
 2. Download pre-trained weights file into foder **./weights/**. Such as: 
 
-    [https://pjreddie.com/media/files/yolov3-openimages.weights](https://pjreddie.com/media/files/yolov3-openimages.weights)
+[https://pjreddie.com/media/files/yolov3.weights]
+
+for some reasons I havent figured out yet, Other weights dont work. (They compile without errors but they do not annotate the input images.
 
 3. Make the project with command in darknet/ folder: 
 >make
@@ -47,11 +49,3 @@ Parameter explain:
 
 ## Contact
 Any questions please let me know.
-vincent.gong7[at]gmail.com
-
-
-<!-- <img src="https://github.com/vincentgong7/VG_AlexeyAB_darknet/blob/master/exp/example/icon_link.png?raw=true" alt="" width="15" valign = "middle"/> [Gong.im](http://gong.im) -->
-
-:palm_tree: [*Gong.im*](http://gong.im)
-
-<script type="text/javascript" src="//counter.websiteout.net/js/5/4/69/0"></script>
