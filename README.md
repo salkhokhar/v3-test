@@ -41,7 +41,7 @@ Parameter explain:
 
 [https://pjreddie.com/media/files/yolov3.weights]
 
-for some reasons I havent figured out yet, Other weights dont work. (They compile without errors but they do not annotate the input images.
+for some reasons I havent figured out yet, Other weights dont work. (They compile without errors but they do not annotate the input images. i.e no object is detected in output images.)
 
 3. Make the project with command in darknet/ folder: 
 >make
