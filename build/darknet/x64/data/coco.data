@@ -1,8 +1,7 @@
-classes= 80
-train  = data/coco/trainvalno5k.txt
-valid  = data/coco_testdev
-#valid = data/coco_val_5k.list
-names = data/coco.names
-backup = backup/
+classes= 1
+train = data/train.txt
+valid = data/test.txt
+names = data/obj.names
+backup = /mydrive/yolov4/backup
 eval=coco
 
